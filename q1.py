@@ -13,7 +13,7 @@ while True:
     print("2.Substraction")
     print("3.Multiplication")
     print("4.Division")
-    print("5.Modolus")
+    print("5.Modulas")
     print("6.Exit")
 
     a=int(input("Enter first number="))
